@@ -1,0 +1,225 @@
+/*----------------------------CONSULTA------------------------------------*/
+body{
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.562), rgba(33, 178, 245, 0.582));
+}
+.profissional1{
+    width: 300px;
+    height: 370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 175, 248);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.foto{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.foto img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.profissional1.dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.profissional1.dados h2{
+    margin: 0 0 10px 0;
+}
+.profissional1.dados p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.profissional1.dados.avaliacao{
+    display: inline-block;
+    padding: 5px;
+    background-color: #ffd700;
+    color: #333;
+    border-radius: 5px;
+}
+.profissional1 button{
+    background-color: rgb(180, 180, 180);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: -298px;
+    margin-left: -222px;
+    margin-right: 41px;
+}
+/*---------------------------------------------------------------------------*/
+
+.profissional2{
+    width: 300px;
+    height: 370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 175, 248);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+    position: absolute;
+    top: 90%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.foto{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.foto img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profissional2.dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.profissional2.dados h2{
+    margin: 0 0 10px 0;
+}
+.profissional2.dados p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.profissional2.dados.avaliacao{
+    display: inline-block;
+    padding: 5px;
+    background-color: #ffd700;
+    color: #333;
+    border-radius: 5px;
+}
+.profissional2 button{
+    background-color: rgb(180, 180, 180);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: -298px;
+    margin-left: -222px;
+    margin-right: 41px;
+}
+/*-----------------------------------------------------------------------------*/
+.profissional3{
+    width: 300px;
+    height: 370px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 175, 248);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+    position: absolute;
+    top: 150%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.foto{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.foto img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.profissional3.dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.profissional3.dados h2{
+    margin: 0 0 10px 0;
+}
+.profissional3.dados.avaliacao{
+    display: inline-block;
+    padding: 5px;
+    background-color: #ffd700;
+    color: #333;
+    border-radius: 5px;
+}
+.profissional3 button{
+    background-color: rgb(180, 180, 180);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: -298px;
+    margin-left: -222px;
+    margin-right: 41px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+
+.texto{
+    width: 472px;
+    height: 307px;
+    display: flex;
+    position: absolute;
+    top: 3%;
+    left: 44%;
+}
+
+.texto h1{
+    width: 465px;
+    display: flex;
+    position: absolute;
+    top: 10%;
+}
+
+.texto p{
+    width: 465px;
+    display: flex;
+    position: absolute;
+    top: 40%;
+}
+
+.texto img{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    top: 120%;
+    left: 60%;
+}

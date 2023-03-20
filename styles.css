@@ -1,0 +1,194 @@
+.parte1{
+    background-color: rgb(48, 175, 248);
+    position: relative;
+    height: 300px; /*autura*/
+    width: 100%; /*largura*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-top: -10px;
+    margin-left: -8px;
+    
+
+    padding-top: 10px; /*é a distancia de cima*/
+    padding-right: 10px; /*distancia da esquerda*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 10px; /*distancia da direita*/
+
+   
+}
+.parte1 h1{
+    padding-top: 30px; /*é a distancia de cima*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+.parte1 p{
+    height: 45px;
+    width: 307px;
+    
+    padding-bottom: 35px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+.parte1 a{
+    background-color: rgb(180, 180, 180);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 117px;  /*distancia da direita*/
+    text-decoration: none;
+    
+
+}
+.parte1 img{
+    height: 285px; /*autura*/
+    width: 300px; /*largura*/
+    position: relative;
+    margin-top: -192px; /*é a distancia de cima*/
+    margin-bottom: -65px;  /*distancia de baixo*/
+    margin-left: 945px;  /*distancia da direita*/
+}
+/*-----------------------------------------------------------------------*/
+.parte2{
+    position: relative;
+    height: 280px; /*autura*/
+    width: 100%; /*largura*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-top: -10px;
+    margin-left: -8px;
+    
+
+    padding-top: 10px; /*é a distancia de cima*/
+    padding-right: 10px; /*distancia da esquerda*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 10px; /*distancia da direita*/
+
+   
+}
+.parte2 h1{
+    padding-top: 30px; /*é a distancia de cima*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+.parte2 p{
+    height: 45px;
+    width: 307px;
+    
+    padding-bottom: 35px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+
+.parte2 label{
+    margin-left: 117px;
+}
+.parte2 select{
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: rgb(180, 180, 180);
+}
+.parte2 img{
+    height: 285px; /*autura*/
+    width: 300px; /*largura*/
+    position: relative;
+    margin-top: -160px; /*é a distancia de cima*/
+    margin-bottom: -65px;  /*distancia de baixo*/
+    margin-left: 945px;  /*distancia da direita*/
+}
+
+/*-----------------------------------------------------------------------*/
+
+.parte3{
+    background-color: rgb(48, 175, 248);
+    position: relative;
+    height: 330px; /*autura*/
+    width: 100%; /*largura*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-top: 71px;
+    margin-left: -8px;
+    
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+}
+
+.parte3 h1{
+    padding-top: 30px; /*é a distancia de cima*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+.parte3 p{
+    height: 45px;
+    width: 307px;
+    padding-left: 120px;
+}
+.parte3 img{
+    height: 285px; /*autura*/
+    width: 300px; /*largura*/
+    position: relative;
+    margin-top: -186px; /*é a distancia de cima*/
+    margin-bottom: -65px;  /*distancia de baixo*/
+    margin-left: 945px;  /*distancia da direita*/
+}
+
+/*------------------------------------------------------------------------*/
+
+.parte4{
+    position: relative;
+    height: 280px; /*autura*/
+    width: 100%; /*largura*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin-top: -10px;
+    margin-left: -8px;
+    
+
+    padding-top: 10px; /*é a distancia de cima*/
+    padding-right: 10px; /*distancia da esquerda*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 10px; /*distancia da direita*/
+
+   
+}
+.parte4 h1{
+    padding-top: 30px; /*é a distancia de cima*/
+    padding-bottom: 10px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+.parte4 p{
+    height: 45px;
+    width: 307px;
+    
+    padding-bottom: 35px; /*distancia de baixo*/
+    padding-left: 120px;
+}
+
+.parte4 button{
+    background-color: rgb(180, 180, 180);
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 117px;  /*distancia da direita*/
+    
+
+}
+.parte4 img{
+    height: 285px; /*autura*/
+    width: 300px; /*largura*/
+    position: relative;
+    margin-top: -160px; /*é a distancia de cima*/
+    margin-bottom: -65px;  /*distancia de baixo*/
+    margin-left: 945px;  /*distancia da direita*/
+}
+
